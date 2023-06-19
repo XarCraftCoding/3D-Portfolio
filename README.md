@@ -1,20 +1,9 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+# 3D Portfolio
+In this repository, there is the source code of ___xarcraftcoding.dev___ website.
 
-## Introduction
-The existence of React Native makes React one of the most valuable skills to have. Learn how to transform 75% of your knowledge from making websites into building mobile applications today!
+## Updates
+__0.0.1__ _Released_ -> Published on 19th June 2023. Just the project, unupdated things on ___src/constants/index.js___.
+__0.0.2__ _Released_ -> Published on 19th June 2023. Just updated the ___README.md___.
+__0.1.0__ _Unreleased_ -> Finished the project, launching the ___xarcraftcoding.dev___ website. Also, the unupdated things are finished.
 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Thank you for reading the ___README.md___!
